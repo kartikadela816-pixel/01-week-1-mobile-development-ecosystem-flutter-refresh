@@ -13,7 +13,8 @@
 ## 2. Bukti Tangkapan Layar (Running App)
 | Mode Portrait | Mode Landscape |
 |---|---|
-| ![Portrait](<img width="407" height="482" alt="hasil flatter" src="https://github.com/user-attachments/assets/b7831a8d-5e2c-4993-881e-e6778a536cc2" />) | ![Landscape](<img width="960" height="505" alt="flatter lanscap" src="https://github.com/user-attachments/assets/a332eb9d-ba20-499b-9851-7b0cf9b943a0" />
+| ![Portrait](<img width="407" height="482" alt="hasil flatter" src="https://github.com/user-attachments/assets/6a6fba1a-17f9-4bcd-8ee3-d0122a2ac00b" />
+) | ![Landscape](<img width="960" height="505" alt="flatter lanscap" src="https://github.com/user-attachments/assets/a332eb9d-ba20-499b-9851-7b0cf9b943a0" />
 ) |
 
 ## 3. Kendala yang Dihadapi & Solusinya
