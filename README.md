@@ -13,7 +13,9 @@
 ## 2. Bukti Tangkapan Layar (Running App)
 | Mode Portrait | Mode Landscape |
 |---|---|
-| ![Portrait]("C:\Users\asus\Downloads\flatter.png") | ![Landscape]("C:\Users\asus\Downloads\flatter.png") |
+| ![Portrait](<img width="407" height="482" alt="hasil flatter" src="https://github.com/user-attachments/assets/b7831a8d-5e2c-4993-881e-e6778a536cc2" />
+) | ![Landscape](<img width="960" height="505" alt="flatter" src="https://github.com/user-attachments/assets/e93c3492-e449-453c-ac0a-5b153678ff44" />
+) |
 
 ## 3. Kendala yang Dihadapi & Solusinya
 - **Kendala**: [tadi ada beberapa yang saya bingung terkait kodenya, dan tadi eror dibagian mau push nya ]
