@@ -2,7 +2,7 @@
 
 - **Nama**: [Dela Kartika]
 - **NIM**: [362558302099]
-- **Kelas / Prodi**: 3x / Sarjana Terapan TRPL
+- **Kelas / Prodi**: 2x / Sarjana Terapan TRPL
 - **Mata Kuliah**: Pemrograman Perangkat Bergerak (Semester 3)
 
 ---
